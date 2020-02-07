@@ -9,3 +9,5 @@ Maintains a hash-table based index over the key column specified when creating t
 
 test script should be located in the same directory as the source code (just like tester.py). db.py should be imported using 'from db import Database', and query.py should be imported using 'from query import Query'.
 
+## Milestone 2
+just published
